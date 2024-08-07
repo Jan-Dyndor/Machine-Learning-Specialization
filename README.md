@@ -15,8 +15,10 @@ Certificates
    This course focuses on supervised learning, specifically regression and classification. It covers essential algorithms and techniques such as linear regression, logistic regression, and neural networks.
 
 - [View Certificate PDF](Coursera%20Jan%20Dyndor%20Supervised%20Machine%20Learning%20Regression%20and%20Classification.pdf)
-- [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ANN4WJHTEWEW) 3. Advanced Learning Algorithms
-  This course dives into advanced learning algorithms, including decision trees, ensemble methods, and unsupervised learning techniques such as clustering and dimensionality reduction.
+- [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ANN4WJHTEWEW)
+
+3. Advanced Learning Algorithms
+   This course dives into advanced learning algorithms, including decision trees, ensemble methods, and unsupervised learning techniques such as clustering and dimensionality reduction.
 
 - [View Certificate PDF](Coursera%20Jan%20Dyndor%20Advanced%20Learning%20Algorythms%20Certificate.pdf)
 - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/RLZM77MAEB4C)
