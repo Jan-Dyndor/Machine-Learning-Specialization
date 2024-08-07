@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization
 
-[Jan Dyndor Machine Learning Specializaion Certificate](Machine%20Learning%20Specialization/Machine-Learning-Specialization/Coursera%20Jan%20Dyndor.pdf)
+[Jan Dyndor Machine Learning Specializaion Certificate](Coursera%20Jan%20Dyndor.pdf)
 
 [Certificate Course Supervised Machine Learning: Regression and Classification](Coursera%20Jan%20Dyndor%20Supervised%20Machine%20Learning%20Regression%20and%20Classification.pdf)
 
